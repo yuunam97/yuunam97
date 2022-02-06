@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Yuu :)
-- 👀 I’m interested in Forensics with computer implementation 
-- 🌱 I’m currently learning Python (still a newbie) (Software developing, image processing and data science)
-- 💞️ I’m looking to collaborate on any easy task that can get me to learn more about Python
+- 👋 Hi, I’m Yuu (not you) :)
+- 👀 Interested in computer implementaion in forensics. 
+- 🌱 Currently learning Python towards medical image processing and deep learning.
+- 💞️ Looking to collaborate on any easy task that can get me to learn more about Python
 - 📫 How to reach me ==> yuu.nam9779@gmail.com
 
 <!---
