@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yuu (not you) :)
-- 👀 Interested in computer implementaion in forensics. 
-- 🌱 Currently learning Python towards medical image processing and deep learning.
-- 💞️ Looking to collaborate on any easy task that can get me to learn more about Python
+- 👀 Interested in looking in to data and finding trends!. 
+- 🌱 Currently on a journey towards data analytics and deep learning.
+- 💞️ Looking to collaborate on any easy task that can get me to learn more!
 - 📫 How to reach me ==> yuu.nam9779@gmail.com
 
 <!---
