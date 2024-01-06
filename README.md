@@ -9,7 +9,7 @@
 - This is a 30 day coding challenge to keep myself learning, disciplined and enjoy programming!  
 - My coding pet: Peri-Peri!
 
-![Banner](https://github.com/yuunam97//blob/main/images/ds-banner.png?raw=true)
+![Banner](https://github.com/yuunam97/baby-happy-duck.gif?raw=true)
 
 
 <!---
