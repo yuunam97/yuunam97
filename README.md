@@ -1,8 +1,16 @@
 - 👋 Hi, I’m Yuu (not you) :)
-- 👀 Interested in looking in to data and finding trends!. 
-- 🌱 Currently on a journey towards data analytics and deep learning.
+- 👀 Avid data explorer and finding trends!. 
+- 🌱 Journey on Data Analytics, Web Development and Deep Learning.
 - 💞️ Looking to collaborate on any tasks that can get me to learn more!
 - 📫 How to reach me ==> yuunam9779@gmail.com
+
+## Currently Working On: 
+1. **30 Nites of Coding with [Codedex.io](https://www.codedex.io/home)** => My current progress: [HERE!](https://www.codedex.io/@Sexiibeast97/30-nites-of-code)
+- This is a 30 day coding challenge to keep myself learning, disciplined and enjoy programming!  
+- My coding pet: Peri-Peri!
+
+![Banner](https://github.com/yuunam97//blob/main/images/ds-banner.png?raw=true)
+
 
 <!---
 yuunam97/yuunam97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
