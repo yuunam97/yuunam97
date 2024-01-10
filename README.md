@@ -1,8 +1,10 @@
-# Welcome to my GitHub! 
+# WELCOME TO YUU'S GITHUB! 
+
+![banner](https://github.com/yuunam97/yuunam97/blob/main/images/banner.png?raw=true)
 
 ### About Me: 
-- 👋 Hi, I’m Yuu (not you)! I am a Master of Science graduate who is in love with data analysis web app development, and deep learning!   
-- 💞️ Looking to collaborate on any tasks that can get me to learn more!
+- 👋 Hi, I’m **Yuu** (not you)! I am a Master of Science graduate who loves data analysis, web app development, and deep learning!   
+- 💞️ Looking to collaborate on tasks that can help me learn more!
 - 📫 How to reach me ==> yuunam9779@gmail.com
 
 ### Currently Working On: 
@@ -10,7 +12,10 @@
 - This is a 30 day coding challenge to keep myself learning, disciplined and enjoy programming!  
 - My coding pet: **Peri-Peri!**
 
-![Banner](https://github.com/yuunam97/yuunam97/blob/main/images/baby-happy-duck.gif?raw=true)
+![baby](https://github.com/yuunam97/yuunam97/blob/main/images/baby-happy-duck.gif?raw=true) == **EVOLVED TO (10 day)** ==> 
+![teen](https://github.com/yuunam97/yuunam97/blob/main/images/evolved-happy-duck.gif?raw=true) 
+
+2. **Learning JavaScript!**
 
 <!---
 yuunam97/yuunam97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
