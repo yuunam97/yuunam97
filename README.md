@@ -12,6 +12,8 @@
 ### Current Tasks of 2024:
 1. **Consolidating on Excel and SQL**
 
+2. **Delve more on the Data Analytics and Data Science**
+
 ------------------------------------------------------------------------------------------------------
 
 ### Finished Tasks of 2024: 
