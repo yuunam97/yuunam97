@@ -7,12 +7,12 @@
 - 💞️ Looking to collaborate on tasks that can help me learn more!
 - 📫 How to reach me ==> yuunam9779@gmail.com
 
-<br>
+------------------------------------------------------------------------------------------------------
 
 ### Current Tasks of 2024:
 1. **Consolidating on Excel and SQL**
 
-<br>
+------------------------------------------------------------------------------------------------------
 
 ### Finished Tasks of 2024: 
 1. **30 Nites of Coding with [Codedex.io](https://www.codedex.io/home)** => My current progress: [HERE!](https://www.codedex.io/@Sexiibeast97/30-nites-of-code)
