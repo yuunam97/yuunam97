@@ -37,8 +37,11 @@
 - **LLM Councils**  
   Multi-agent LLM decision-making system for complex problem solving  
 
-- **Personal Finance Investment (Codex CLI)**  
-  Automated investment analysis and decision tooling using LLM agents  
+- **Badminton Sports App**  
+  - Database of current badminton sports player and teams in Cape Town, South Africa
+  - Each player's stats (FIFA stats card-like)
+  - Estimation of the win/lose ratios
+  - Match Planners & Club game planning
 
 - **Personalized T-shirt Designer App**  
   AI-powered customization platform integrating user input with generative workflows  
